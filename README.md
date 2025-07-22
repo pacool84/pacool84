@@ -4,13 +4,14 @@
 
 🦕 **Son look for pacool84 at the SKY** 🦖
 
-<img
-      src="https://media0.giphy.com/media/Vdn2fjMv5ASxI3rZ3S/source.gif"
-      width="480px"
-      height="480px"
-    />
-
-  <br>
+<p align="center">
+  <img
+    src="https://media0.giphy.com/media/Vdn2fjMv5ASxI3rZ3S/source.gif"
+    width="480px"
+    height="480px"
+  />
+</p>
+<br>
   
 [!**Pacool84 Activity Graph**](https://git.io/praveenscience)
 
