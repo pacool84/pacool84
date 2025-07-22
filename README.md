@@ -12,7 +12,7 @@
 
   <br>
   
-[!**Pacool84 Activity Graph**(https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
+[!**Pacool84 Activity Graph**](https://git.io/praveenscience)
 
 | ![Pacool github stats](https://github-readme-stats.vercel.app/api?username=Pacool84&show_icons=true&theme=tokyonight) | ![Pacool GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pacool84&theme=tokyonight)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
